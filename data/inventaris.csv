@@ -1,0 +1,11 @@
+kode_barang,nama_barang,kategori,stok,harga
+BRG001,Pulpen Gel Hitam,ATK,50,3500
+BRG002,Buku Tulis A5,ATK,3,7000
+BRG003,Mouse Wireless,Elektronik,12,85000
+BRG004,Kabel HDMI 2m,Elektronik,2,45000
+BRG005,Kertas HVS A4,ATK,20,55000
+BRG006,Flashdisk 32GB,Elektronik,0,65000
+BRG001,Pulpen Gel Hitam Duplikat,ATK,10,3500
+BRG007,Map Plastik,ATK,-5,2000
+BRG008,Keyboard Mechanical,Elektronik,4,gratis
+BRG009,,ATK,10,5000
