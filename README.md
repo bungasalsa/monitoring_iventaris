@@ -5,6 +5,9 @@ Aplikasi Command Line Interface (CLI) interaktif untuk memantau, memvalidasi, me
 Proyek ini disusun untuk memenuhi **Ujian Tengah Semester (UTS) Pemrograman Dasar (TK091)**.
 
 ---
+## NAMA : BUNGA SALSABILLA
+## NIM  : 25.83.1232
+---
 
 ## 1. Deskripsi Singkat & Fitur Utama
 
