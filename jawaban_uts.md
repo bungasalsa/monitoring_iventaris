@@ -1,8 +1,6 @@
 # DRAF JAWABAN LAPORAN UTS PEMROGRAMAN DASAR (TK091)
 ## Proyek: Aplikasi CLI Monitor Stok & Inventaris Barang
 
-Dokumen ini berisi panduan jawaban lengkap untuk Soal 1 s.d. Soal 6 sesuai dengan *blueprint* dan rubrik penilaian UTS. Anda dapat menyalin (*copy-paste*) konten ini ke Microsoft Word / Google Docs lalu mengekspornya menjadi format **PDF**.
-
 ---
 
 ### SOAL 1: Analisis Masalah & Konsep Aplikasi (Bobot: 10)
